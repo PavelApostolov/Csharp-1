@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCsharp", "01_Intro\HelloCsharp.csproj", "{B7ED03B3-A373-4D55-9CB8-1E36A2784A99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCsharp", "HelloCsharp\HelloCsharp.csproj", "{B7ED03B3-A373-4D55-9CB8-1E36A2784A99}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMyName", "PrintMyName\PrintMyName.csproj", "{6B0C49A0-9C29-4926-B362-7459AA57E1D0}"
 EndProject
