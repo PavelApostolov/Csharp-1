@@ -1,0 +1,5 @@
+D:\dev\proj\Csharp-1\01_Intro\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\dev\proj\Csharp-1\01_Intro\PrintMyName\bin\Debug\PrintMyName.exe
+D:\dev\proj\Csharp-1\01_Intro\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\dev\proj\Csharp-1\01_Intro\PrintMyName\obj\Debug\PrintMyName.exe
+D:\dev\proj\Csharp-1\01_Intro\PrintMyName\obj\Debug\PrintMyName.pdb

@@ -1,0 +1,3 @@
+D:\dev\proj\Csharp-1\01_Intro\01_Intro\bin\Debug\01_Intro.exe.config
+D:\dev\proj\Csharp-1\01_Intro\01_Intro\obj\Debug\01_Intro.exe
+D:\dev\proj\Csharp-1\01_Intro\01_Intro\obj\Debug\01_Intro.pdb
