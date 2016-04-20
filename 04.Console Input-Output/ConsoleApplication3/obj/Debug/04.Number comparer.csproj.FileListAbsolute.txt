@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication3\obj\Debug\04.Number comparer.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

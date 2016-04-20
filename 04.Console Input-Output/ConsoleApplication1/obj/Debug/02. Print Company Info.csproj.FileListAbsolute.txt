@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Console Input-Output\ConsoleApplication1\obj\Debug\02. Print Company Info.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

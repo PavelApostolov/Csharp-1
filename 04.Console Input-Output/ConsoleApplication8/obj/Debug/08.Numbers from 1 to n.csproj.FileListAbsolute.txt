@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication8\obj\Debug\08.Numbers from 1 to n.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

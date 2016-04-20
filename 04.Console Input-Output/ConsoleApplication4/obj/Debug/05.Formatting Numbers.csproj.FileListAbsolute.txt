@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication4\obj\Debug\05.Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Console Input-Output\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

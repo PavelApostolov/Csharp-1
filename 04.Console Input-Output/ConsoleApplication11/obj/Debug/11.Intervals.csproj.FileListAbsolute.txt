@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Console Input-Output\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Console Input-Output\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Console Input-Output\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Console Input-Output\ConsoleApplication11\obj\Debug\11.Intervals.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Console Input-Output\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Console Input-Output\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
