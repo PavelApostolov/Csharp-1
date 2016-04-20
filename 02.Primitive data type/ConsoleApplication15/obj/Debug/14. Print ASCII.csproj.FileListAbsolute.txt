@@ -1,0 +1,8 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Primitive data type\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Primitive data type\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Primitive data type\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb

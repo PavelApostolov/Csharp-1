@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
