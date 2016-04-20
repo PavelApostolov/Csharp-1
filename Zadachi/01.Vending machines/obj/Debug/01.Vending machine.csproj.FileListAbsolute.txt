@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Zadachi\Zadachi\bin\Debug\Zadachi.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Zadachi\Zadachi\bin\Debug\Zadachi.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Zadachi\Zadachi\bin\Debug\Zadachi.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Zadachi\Zadachi\obj\Debug\01.Vending machine.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Zadachi\Zadachi\obj\Debug\Zadachi.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Zadachi\Zadachi\obj\Debug\Zadachi.pdb

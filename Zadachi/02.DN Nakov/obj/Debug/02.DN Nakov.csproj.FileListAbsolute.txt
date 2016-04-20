@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication2\obj\Debug\02.DN Nakov.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

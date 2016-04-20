@@ -1,0 +1,2 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication1\obj\Debug\02.Drunken numbers.csprojResolveAssemblyReference.cache
