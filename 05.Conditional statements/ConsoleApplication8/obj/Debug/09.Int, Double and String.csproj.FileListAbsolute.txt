@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication8\obj\Debug\09.Int, Double and String.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

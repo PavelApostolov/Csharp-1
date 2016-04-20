@@ -1,0 +1,5 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

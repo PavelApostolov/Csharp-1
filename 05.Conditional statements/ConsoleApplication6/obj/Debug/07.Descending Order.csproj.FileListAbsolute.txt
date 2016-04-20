@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication6\obj\Debug\07.Descending Order.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

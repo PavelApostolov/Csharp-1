@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication9\obj\Debug\10.Beer Time.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

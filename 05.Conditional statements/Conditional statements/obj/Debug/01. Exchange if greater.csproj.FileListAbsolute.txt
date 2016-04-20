@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\Conditional statements\bin\Debug\Conditional statements.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\Conditional statements\bin\Debug\Conditional statements.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\Conditional statements\bin\Debug\Conditional statements.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\Conditional statements\obj\Debug\01. Exchange if greater.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\Conditional statements\obj\Debug\Conditional statements.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\Conditional statements\obj\Debug\Conditional statements.pdb

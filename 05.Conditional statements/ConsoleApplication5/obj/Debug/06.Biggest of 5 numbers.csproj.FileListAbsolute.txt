@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication5\obj\Debug\06.Biggest of 5 numbers.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Conditional statements\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
