@@ -1,45 +1,52 @@
-﻿using System;
+﻿/* 7. Sort 3 Numbers
+   Write a program that enters 3 real numbers and prints them sorted in descending order.
+   Use nested if statements. Don’t use arrays and the built-in sorting functionality.
+   Output a single line on the console - the sorted numbers, separated by a whitespace.
+   The three numbers will always be valid integer numbers in the range [-1000, 1000]. */
 
-class DescendingOrder
+using System;
+
+class Sort3NumbersNestedIfs
 {
     static void Main()
     {
-        Console.WriteLine("Enter three real numbers");
-        double a = double.Parse(Console.ReadLine());
-        double b = double.Parse(Console.ReadLine());
-        double c = double.Parse(Console.ReadLine());
-        if (a > b && b < c)
-        {
-            if (a > c)
-            {
-                Console.WriteLine("{0} {1} {2}", a, c, b);
-            }
-            else if (a < c)
-            {
-                Console.WriteLine("{0} {1} {2}", c, a, b);
-            }
-        }
-        else if (a < b && a < c)
+        int a = int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        int c = int.Parse(Console.ReadLine());
+
+        if (a > b && a > c)
         {
             if (b > c)
             {
+                Console.WriteLine("{0} {1} {2}", a, b, c);
+            }
+            else
+            {
+                Console.WriteLine("{0} {1} {2}", a, c, b);
+            }
+        }
+        else if (b > a && b > c)
+        {
+            if (a > c)
+            {
+                Console.WriteLine("{0} {1} {2}", b, a, c);
+            }
+            else
+            {
                 Console.WriteLine("{0} {1} {2}", b, c, a);
             }
-            else if (b < c)
+        }
+        else
+        {
+            if (a > b)
+            {
+                Console.WriteLine("{0} {1} {2}", c, a, b);
+            }
+            else
             {
                 Console.WriteLine("{0} {1} {2}", c, b, a);
             }
         }
-        else if (a == b)
-        {
-            if (c > b)
-            {
-                Console.WriteLine("{0} {1} {2}", c, a, b);
-            }
-            else if (c == b)
-            {
-                Console.WriteLine("{0} {1} {2}", b, a, c);
-            }
-        }
+
     }
 }
