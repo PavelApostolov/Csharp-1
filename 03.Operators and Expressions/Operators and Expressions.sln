@@ -19,19 +19,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Prime number check", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Trapezoids", "ConsoleApplication9\09.Trapezoids.csproj", "{8EE48594-BB1E-453A-B135-3631224D7270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Prime numbers", "ConsoleApplication10\08. Prime numbers.csproj", "{D1A624EF-608B-44BD-AB37-738EB54584FD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Point inside a circle and outside rectangle", "ConsoleApplication11\10. Point inside a circle and outside rectangle.csproj", "{9325630C-C2B2-4612-86D1-44397810CF98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Bitwise", "ConsoleApplication12\11.Bitwise.csproj", "{180423BA-0A7A-47E4-8715-4F21FB0830F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.3rd bit", "ConsoleApplication12\11.3rd bit.csproj", "{180423BA-0A7A-47E4-8715-4F21FB0830F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Extract bit", "ConsoleApplication13\12.Extract bit.csproj", "{B565EC5B-3320-40B5-9D5E-6F2BFDB7C6C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Nth bit", "ConsoleApplication13\12.Nth bit.csproj", "{B565EC5B-3320-40B5-9D5E-6F2BFDB7C6C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Check bit position", "ConsoleApplication14\13.Check bit position.csproj", "{78876EE5-B4C1-41AD-AD05-5AC30AE551D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Modify bit", "ConsoleApplication14\13.Modify bit.csproj", "{78876EE5-B4C1-41AD-AD05-5AC30AE551D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Modify bit", "ConsoleApplication15\14.Modify bit.csproj", "{9BDE2A61-D994-49B5-BAE5-05CF3D95D578}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Bit exchange", "ConsoleApplication15\14.Bit exchange.csproj", "{9BDE2A61-D994-49B5-BAE5-05CF3D95D578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication16", "ConsoleApplication16\ConsoleApplication16.csproj", "{1A5A64CC-1C9E-4D3D-8655-DD4F5CA7DD53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Bit swap", "ConsoleApplication16\15.Bit swap.csproj", "{1A5A64CC-1C9E-4D3D-8655-DD4F5CA7DD53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,10 +73,6 @@ Global
 		{8EE48594-BB1E-453A-B135-3631224D7270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EE48594-BB1E-453A-B135-3631224D7270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EE48594-BB1E-453A-B135-3631224D7270}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D1A624EF-608B-44BD-AB37-738EB54584FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1A624EF-608B-44BD-AB37-738EB54584FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D1A624EF-608B-44BD-AB37-738EB54584FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D1A624EF-608B-44BD-AB37-738EB54584FD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9325630C-C2B2-4612-86D1-44397810CF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9325630C-C2B2-4612-86D1-44397810CF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9325630C-C2B2-4612-86D1-44397810CF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
