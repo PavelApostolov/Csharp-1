@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication4\obj\Debug\05. Third digit is 7.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication5\obj\Debug\06. Fourt-digit number.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

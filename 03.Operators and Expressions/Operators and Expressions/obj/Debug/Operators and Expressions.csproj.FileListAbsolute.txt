@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Operators and Expressions\Operators and Expressions\bin\Debug\Operators and Expressions.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Operators and Expressions\Operators and Expressions\bin\Debug\Operators and Expressions.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Operators and Expressions\Operators and Expressions\bin\Debug\Operators and Expressions.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.pdb

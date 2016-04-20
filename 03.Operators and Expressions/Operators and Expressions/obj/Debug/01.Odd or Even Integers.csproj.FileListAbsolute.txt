@@ -1,0 +1,5 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\Operators and Expressions\bin\Debug\Operators and Expressions.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Operators and Expressions\Operators and Expressions\bin\Debug\Operators and Expressions.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Operators and Expressions\Operators and Expressions\bin\Debug\Operators and Expressions.pdb

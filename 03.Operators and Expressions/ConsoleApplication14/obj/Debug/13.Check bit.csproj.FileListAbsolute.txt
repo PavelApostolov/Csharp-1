@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication14\obj\Debug\13.Check bit.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Operators and Expressions\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
