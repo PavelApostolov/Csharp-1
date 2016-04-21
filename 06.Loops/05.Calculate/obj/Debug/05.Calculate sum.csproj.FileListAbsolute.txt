@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication4\obj\Debug\05.Calculate sum.csprojResolveAssemblyReference.cache

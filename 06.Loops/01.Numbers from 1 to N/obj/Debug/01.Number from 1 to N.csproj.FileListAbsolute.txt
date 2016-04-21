@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2012\Projects\Loops\Loops\bin\Debug\Loops.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\Loops\Loops\bin\Debug\Loops.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Loops\Loops\bin\Debug\Loops.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\Loops\Loops\obj\Debug\01.Number from 1 to N.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2012\Projects\Loops\Loops\obj\Debug\Loops.exe
+c:\users\pavel\documents\visual studio 2012\Projects\Loops\Loops\obj\Debug\Loops.pdb

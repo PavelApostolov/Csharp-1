@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication5\obj\Debug\06.Calculate N! div K!.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

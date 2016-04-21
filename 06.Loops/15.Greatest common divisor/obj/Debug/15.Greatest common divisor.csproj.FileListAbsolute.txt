@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\15.Greatest common divisor\bin\Debug\15.Greatest common divisor.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\15.Greatest common divisor\bin\Debug\15.Greatest common divisor.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\15.Greatest common divisor\bin\Debug\15.Greatest common divisor.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\15.Greatest common divisor\obj\Debug\15.Greatest common divisor.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\15.Greatest common divisor\obj\Debug\15.Greatest common divisor.pdb

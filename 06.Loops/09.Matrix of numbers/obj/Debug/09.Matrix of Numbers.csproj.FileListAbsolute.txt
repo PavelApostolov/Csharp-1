@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

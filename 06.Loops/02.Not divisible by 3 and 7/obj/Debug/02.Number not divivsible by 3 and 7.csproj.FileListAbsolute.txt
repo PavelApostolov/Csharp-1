@@ -1,0 +1,6 @@
+c:\Users\Pavel\documents\visual studio 2012\Projects\Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\Pavel\documents\visual studio 2012\Projects\Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\Pavel\documents\visual studio 2012\Projects\Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\Pavel\documents\visual studio 2012\Projects\Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication1\obj\Debug\02.Number not divivsible by 3 and 7.csprojResolveAssemblyReference.cache
