@@ -55,6 +55,47 @@ namespace FlagHard
                 leftDiagonalPosition++;
                 rightDiagonalPosition--;
             }
+        
+            //вариант 2
+            int num = int.Parse(Console.ReadLine());
+            int innerDots = num / 2 - 1;
+            int outerDots = 0;
+
+            for (int i = 0; i < num/2; i++)
+            {
+                Console.Write(new string('.', outerDots));
+                Console.Write('\\');
+                Console.Write(new string('.', innerDots));
+                Console.Write('|');
+                Console.Write(new string('.', innerDots));
+                Console.Write('/');
+                Console.Write(new string('.', outerDots));
+
+                    Console.WriteLine();
+                    outerDots++;
+                    innerDots--;
+            }
+            Console.Write(new string('-', num/2));
+            Console.Write('*');
+            Console.WriteLine(new string('-', num / 2));
+
+            outerDots = n/2 - 1;
+            innerDots = 0;
+            for (int i = 0; i < num / 2; i++)
+            {
+                Console.Write(new string('.', outerDots));
+                Console.Write('/');
+                Console.Write(new string('.', innerDots));
+                Console.Write('|');
+                Console.Write(new string('.', innerDots));
+                Console.Write('\\');
+                Console.Write(new string('.', outerDots));
+
+                Console.WriteLine();
+                outerDots--;
+                innerDots++;
+            }
+            
         }
     }
 }
