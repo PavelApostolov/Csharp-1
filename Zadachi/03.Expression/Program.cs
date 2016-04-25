@@ -45,7 +45,7 @@ namespace _03.Expression
                     }
                     else
                     {
-
+                        currentOperator = symbol;
                     }
                 }
 
