@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

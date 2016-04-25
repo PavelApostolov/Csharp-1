@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.3 numbers\bin\Debug\01.3 numbers.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.3 numbers\bin\Debug\01.3 numbers.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.3 numbers\bin\Debug\01.3 numbers.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.3 numbers\obj\Debug\01.3 numbers.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.3 numbers\obj\Debug\01.3 numbers.pdb

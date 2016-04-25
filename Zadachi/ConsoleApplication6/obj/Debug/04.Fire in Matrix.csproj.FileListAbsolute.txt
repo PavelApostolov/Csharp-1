@@ -1,0 +1,6 @@
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication6\obj\Debug\04.Fire in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Pavel\documents\visual studio 2012\Projects\Zadachi\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

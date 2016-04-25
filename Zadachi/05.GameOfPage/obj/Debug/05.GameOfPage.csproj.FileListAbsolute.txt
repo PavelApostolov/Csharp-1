@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.GameOfPage\bin\Debug\05.GameOfPage.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.GameOfPage\bin\Debug\05.GameOfPage.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.GameOfPage\bin\Debug\05.GameOfPage.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.GameOfPage\obj\Debug\05.GameOfPage.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.GameOfPage\obj\Debug\05.GameOfPage.pdb

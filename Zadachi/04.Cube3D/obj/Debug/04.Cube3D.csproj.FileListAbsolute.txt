@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Cube3D\bin\Debug\04.Cube3D.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Cube3D\bin\Debug\04.Cube3D.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Cube3D\bin\Debug\04.Cube3D.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Cube3D\obj\Debug\04.Cube3D.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Cube3D\obj\Debug\04.Cube3D.pdb

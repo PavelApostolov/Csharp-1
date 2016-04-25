@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Bat Goiko Tower\bin\Debug\04.Bat Goiko Tower.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Bat Goiko Tower\bin\Debug\04.Bat Goiko Tower.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Bat Goiko Tower\bin\Debug\04.Bat Goiko Tower.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Bat Goiko Tower\obj\Debug\04.Bat Goiko Tower.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Bat Goiko Tower\obj\Debug\04.Bat Goiko Tower.pdb

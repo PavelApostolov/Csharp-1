@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Bits to bits\bin\Debug\05.Bits to bits.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Bits to bits\bin\Debug\05.Bits to bits.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Bits to bits\bin\Debug\05.Bits to bits.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Bits to bits\obj\Debug\05.Bits to bits.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Bits to bits\obj\Debug\05.Bits to bits.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Bits to bits\obj\Debug\05.Bits to bits.pdb

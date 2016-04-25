@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.PieceOfCake\bin\Debug\01.PieceOfCake.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.PieceOfCake\bin\Debug\01.PieceOfCake.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.PieceOfCake\bin\Debug\01.PieceOfCake.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.PieceOfCake\obj\Debug\01.PieceOfCake.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.PieceOfCake\obj\Debug\01.PieceOfCake.pdb

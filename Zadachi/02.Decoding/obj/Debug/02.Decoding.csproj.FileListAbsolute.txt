@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Decoding\bin\Debug\02.Decoding.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Decoding\bin\Debug\02.Decoding.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Decoding\bin\Debug\02.Decoding.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Decoding\obj\Debug\02.Decoding.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Decoding\obj\Debug\02.Decoding.pdb

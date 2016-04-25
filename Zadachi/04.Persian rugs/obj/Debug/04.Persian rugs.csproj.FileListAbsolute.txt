@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Persian rugs\bin\Debug\04.Persian rugs.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Persian rugs\bin\Debug\04.Persian rugs.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Persian rugs\bin\Debug\04.Persian rugs.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Persian rugs\obj\Debug\04.Persian rugs.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Persian rugs\obj\Debug\04.Persian rugs.pdb

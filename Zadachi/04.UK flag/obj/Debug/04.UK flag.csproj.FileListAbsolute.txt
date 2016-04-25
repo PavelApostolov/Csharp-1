@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.UK flag\bin\Debug\04.UK flag.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.UK flag\bin\Debug\04.UK flag.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.UK flag\bin\Debug\04.UK flag.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.UK flag\obj\Debug\04.UK flag.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.UK flag\obj\Debug\04.UK flag.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.UK flag\obj\Debug\04.UK flag.pdb

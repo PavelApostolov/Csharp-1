@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.OnesAndZeroes\bin\Debug\03.OnesAndZeroes.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.OnesAndZeroes\bin\Debug\03.OnesAndZeroes.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.OnesAndZeroes\bin\Debug\03.OnesAndZeroes.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.OnesAndZeroes\obj\Debug\03.OnesAndZeroes.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.OnesAndZeroes\obj\Debug\03.OnesAndZeroes.pdb

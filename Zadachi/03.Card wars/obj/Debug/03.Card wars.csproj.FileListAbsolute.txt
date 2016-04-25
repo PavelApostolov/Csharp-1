@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Card wars\bin\Debug\03.Card wars.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Card wars\bin\Debug\03.Card wars.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Card wars\bin\Debug\03.Card wars.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Card wars\obj\Debug\03.Card wars.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Card wars\obj\Debug\03.Card wars.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Card wars\obj\Debug\03.Card wars.pdb

@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Maslancho\bin\Debug\02.Maslancho.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Maslancho\bin\Debug\02.Maslancho.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Maslancho\bin\Debug\02.Maslancho.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Maslancho\obj\Debug\02.Maslancho.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.Maslancho\obj\Debug\02.Maslancho.pdb

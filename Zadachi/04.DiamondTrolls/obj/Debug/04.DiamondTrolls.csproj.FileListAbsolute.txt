@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.DiamondTrolls\obj\Debug\04.DiamondTrolls.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.DiamondTrolls\obj\Debug\04.DiamondTrolls.pdb

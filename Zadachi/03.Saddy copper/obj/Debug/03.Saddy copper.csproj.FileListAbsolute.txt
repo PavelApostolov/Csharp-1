@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Saddy copper\bin\Debug\03.Saddy copper.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Saddy copper\bin\Debug\03.Saddy copper.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Saddy copper\bin\Debug\03.Saddy copper.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Saddy copper\obj\Debug\03.Saddy copper.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Saddy copper\obj\Debug\03.Saddy copper.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\03.Saddy copper\obj\Debug\03.Saddy copper.pdb

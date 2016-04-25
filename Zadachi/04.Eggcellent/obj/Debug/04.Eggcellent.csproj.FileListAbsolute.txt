@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Eggcellent\bin\Debug\04.Eggcellent.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Eggcellent\bin\Debug\04.Eggcellent.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Eggcellent\bin\Debug\04.Eggcellent.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Eggcellent\obj\Debug\04.Eggcellent.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\04.Eggcellent\obj\Debug\04.Eggcellent.pdb

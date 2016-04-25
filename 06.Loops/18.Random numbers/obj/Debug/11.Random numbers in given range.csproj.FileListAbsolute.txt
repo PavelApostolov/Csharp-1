@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Loops\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb

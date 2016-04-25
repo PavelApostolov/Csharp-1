@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Sequence of bits\bin\Debug\05.Sequence of bits.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Sequence of bits\bin\Debug\05.Sequence of bits.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Sequence of bits\bin\Debug\05.Sequence of bits.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Sequence of bits\obj\Debug\05.Sequence of bits.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Sequence of bits\obj\Debug\05.Sequence of bits.pdb

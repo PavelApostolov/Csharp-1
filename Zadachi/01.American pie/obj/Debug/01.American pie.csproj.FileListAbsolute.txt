@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.American pie\bin\Debug\01.American pie.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.American pie\bin\Debug\01.American pie.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.American pie\bin\Debug\01.American pie.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.American pie\obj\Debug\01.American pie.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\01.American pie\obj\Debug\01.American pie.pdb

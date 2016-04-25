@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.AngryFemaleGPS\bin\Debug\02.AngryFemaleGPS.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.AngryFemaleGPS\bin\Debug\02.AngryFemaleGPS.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.AngryFemaleGPS\bin\Debug\02.AngryFemaleGPS.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.AngryFemaleGPS\obj\Debug\02.AngryFemaleGPS.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\02.AngryFemaleGPS\obj\Debug\02.AngryFemaleGPS.pdb

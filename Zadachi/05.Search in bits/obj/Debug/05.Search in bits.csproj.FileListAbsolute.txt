@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Search in bits\bin\Debug\05.Search in bits.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Search in bits\bin\Debug\05.Search in bits.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Search in bits\bin\Debug\05.Search in bits.pdb
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Search in bits\obj\Debug\05.Search in bits.exe
+C:\Users\Pavel\Documents\Visual Studio 2012\Projects\Zadachi\05.Search in bits\obj\Debug\05.Search in bits.pdb
