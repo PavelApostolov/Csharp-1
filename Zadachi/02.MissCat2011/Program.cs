@@ -33,7 +33,9 @@ namespace _02.MissCat2011
             }
             if (c1 >= c1 && c1 >= c2 && c1 >= c3 && c1 >= c4 && c1 >= c5 && c1 >= c6 && c1 >= c7 && c1 >= c8 && c1 >= c9 && c1 >= c10) ;
             //else if (......)
-
+            //2.Way: int max = 0; int maxCat = 0;  if cat1>max --> max = cat1; maxCat = 1
+            // if cat2>max --> max = cat2; maxCat = 2
+            //Console.WriteLine(maxCat)
         }
     }
 }
