@@ -13,6 +13,8 @@ class TripleRotationOfDigits
                 int lastDigit = k % 10;
                 int firstDigits = k / 10;
                 k = int.Parse("" + lastDigit + firstDigits);
+                //result = lastDigit.ToString + k.ToString;
+                //k = int.Parse(result);
             }
         }
         Console.WriteLine(k);
